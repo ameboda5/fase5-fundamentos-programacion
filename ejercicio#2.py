@@ -52,3 +52,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+    print("\n¡Gracias por usar el sistema de precios y promociones!")
